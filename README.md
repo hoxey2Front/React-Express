@@ -1,4 +1,4 @@
-@ React + Express.js + Typescript 세팅법
+# React + Express.js + Typescript 세팅법
 ### Server 폴더내 설치
 ```
 npm init -y
